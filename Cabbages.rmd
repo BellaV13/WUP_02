@@ -67,4 +67,4 @@ the P value is 0.00000003405 < 0.05
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+there is a noticeable difference average in cultivation in c39 and c52, because c52 produces more than c39, and we rejected the null hypothesis. 
